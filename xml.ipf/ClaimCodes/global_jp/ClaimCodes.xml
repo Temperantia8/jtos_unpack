@@ -29,6 +29,8 @@
 	<Class Code="209" Desc="チャットルーム作成"/>
 	<Class Code="210" Desc="チャットルーム削除"/>
 	<Class Code="211" Desc="チャットルーム告知の登録"/>
+	<Class Code="212" Desc="チャットルームのメッセージ削除"/>
+	<Class Code="213" Desc="チャットでの発言を禁止させる"/>
 	<Class Code="301" Desc="宣戦布告/解除"/>
 	<Class Code="302" Desc="ギルド戦争中立設定/解除"/>
 	<Class Code="303" Desc="戦争中の相手ギルドリスト表示"/>
