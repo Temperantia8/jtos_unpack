@@ -3175,21 +3175,21 @@ end
 
 function JOB_HWARANG_PRE_CHECK(pc, jobCount)
 
-    -- local aObj
-    -- if IsServerSection() == 0 then
-    --     aObj = GetMyAccountObj();
-    -- else
-    --     aObj = GetAccountObj(pc);
-    -- end
+    local aObj
+    if IsServerSection() == 0 then
+        aObj = GetMyAccountObj();
+    else
+        aObj = GetAccountObj(pc);
+    end
     
-    -- if aObj ~= nil then
-    --     local value = TryGetProp(aObj, 'UnlockQuest_Char3_22', 0)
-    --     if value == 1 or IS_KOR_TEST_SERVER() == true then
-    --         return 'YES'
-    --     end
-    -- end
+    if aObj ~= nil then
+        local value = TryGetProp(aObj, 'UnlockQuest_Char3_22', 0)
+        if value == 1 or IS_KOR_TEST_SERVER() == true then
+            return 'YES'
+        end
+    end
 
-    return 'YES'
+    return 'NO'
 end
 
 
@@ -3810,4 +3810,25 @@ function get_collection_name_by_item(item_name)
     end
     
     return _collection_list_by_item[item_name]
+end
+
+function IS_DEFAULT_COSTUME_LOCK(JobID)
+    local jobCls = GetClassByType("Job", JobID);
+    local defaultCostume = TryGetProp(jobCls, "DefaultCostume", "None")
+
+    local itemList = session.GetInvItemList();
+    local guidList = itemList:GetGuidList();
+
+    if defaultCostume ~= "None" then
+        for i = 0, guidList:Count() - 1 do
+            local guid = guidList:Get(i);
+            local invItem = itemList:GetItemByGuid(guid);
+            local itemObj = GetIES(invItem:GetObject());
+            if itemObj.ClassName == defaultCostume and invItem.isLockState == true then 
+                return 1;
+            end
+        end
+    end
+
+    return 0;
 end
