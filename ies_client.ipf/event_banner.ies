@@ -1,9 +1,9 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3
 999901,202104,71100,202104,71100,203101,11101,203012,251100,0,0,"inGame_E1","Review","inGame_E1","https://treeofsavior.jp/page/newsview.php?n=551","time_del","",""
-999902,202201,191100,202201,241100,202202,91101,202202,41101,0,0,"inGame_E2","Goddess' Blessed Cube","inGame_E2","https://treeofsavior.jp/page/newsview.php?n=832","","",""
+999902,202202,91100,202202,141100,202202,231101,202202,181101,0,0,"inGame_E2","Leticia's Secret Cube","inGame_E2","https://treeofsavior.jp/page/newsview.php?n=853","","",""
 999903,202201,191100,202201,241100,202202,161101,202202,111101,0,0,"inGame_E3","Hwarang Package","inGame_E3","https://treeofsavior.jp/page/newsview.php?n=835","","",""
 999904,202201,191100,202201,241100,202202,161101,202202,111101,0,0,"inGame_E4","Sadhu Package","inGame_E4","https://treeofsavior.jp/page/newsview.php?n=834","","",""
-999905,202201,261100,202201,211100,202202,91101,202202,41101,0,0,"inGame_E5","Tiger Rabbit Package","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=843","","",""
+999905,202202,91100,202202,121100,202202,161101,202202,131101,0,0,"inGame_E5","Valentine Event","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=854","","",""
 999906,202201,191100,202201,241100,202202,161101,202202,111101,0,0,"inGame_E6","Hokahoka Event","inGame_E6","https://treeofsavior.jp/page/newsview.php?n=826","","",""
 999907,202201,191100,202201,241100,202202,231101,202202,181101,0,0,"inGame_E7","Demon God's Temptation","inGame_E7","https://treeofsavior.jp/page/newsview.php?n=833","","",""
 999908,202012,21100,202012,71100,203012,311101,203012,311100,0,0,"inGame_E8","Costume Collection","inGame_E8","https://treeofsavior.jp/page/newsview.php?n=391","time_del","",""

@@ -1242,6 +1242,7 @@ ClassID,BuyPrice,SellPrice,ClassName,Category,SubCategory,PackageList
 9264,0,30,"EP13_Artefact_137","Recyle_Shop_Sell","Recyle_Shop_Sell",""
 9265,0,30,"EP13_Artefact_138","Recyle_Shop_Sell","Recyle_Shop_Sell",""
 9266,0,30,"wing_ep13ge","Recyle_Shop_Sell","Recyle_Shop_Sell",""
+11135,0,100,"UnlockQuest_OverAchieveClear_Char4_6_Costume","Recyle_Shop_Sell","Recyle_Shop_Sell",""
 11136,0,30,"EP13_costume_Com_170","Recyle_Shop_Sell","Recyle_Shop_Sell",""
 11137,0,30,"EP13_costume_Com_171","Recyle_Shop_Sell","Recyle_Shop_Sell",""
 11138,0,30,"EP13_costume_Com_172","Recyle_Shop_Sell","Recyle_Shop_Sell",""
