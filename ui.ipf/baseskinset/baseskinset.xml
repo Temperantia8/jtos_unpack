@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by imc (imc) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by imc (imc) -->
 <!-- edited with XMLSpy v2008 sp1 (http://www.altova.com) by MintPC (Mi) -->
 <skinset name="Base">
 	<skinlist category="frames">
@@ -13122,6 +13122,8 @@
 		<image name="icon_buff_strafe_dodge" file="\icon\buff_icon5.tga" imgrect="128 1280 128 128" CMM_Caption="스트레이프 회피 버프"/>
 		<image name="icon_Steamed_buns" file="\icon\buff_icon5.tga" imgrect="256 1280 128 128" CMM_Caption="호빵"/>
 		<image name="icon_Grilled_Steamed_buns" file="\icon\buff_icon5.tga" imgrect="384 1280 128 128" CMM_Caption="구운호빵"/>
+		<image name="icon_buff_ridepet_YellowTiger" file="\icon\buff_icon5.tga" imgrect="128 1920 128 128" CMM_Caption="황호 버프"/>
+		<image name="icon_2022_newyear_buff" file="\icon\buff_icon5.tga" imgrect="0 1920 128 128" CMM_Caption="2022 신년 버프"/>
 	</imagelist>
 	<imagelist category="housing_bufficon">
 		<image name="icon_Weapon_Klaida" file="\icon\icon_hosing_buff.tga" imgrect="0 0 128 128"/>
@@ -13844,6 +13846,7 @@
 		<image name="plate_achieve_weeklyrank_18" file="\skin\user_title_skin.tga" imgrect="645 924 214 34" CMM_Caption="주보레_디에나"/>
 		<image name="plate_achieve_hwarang_weekraid" file="\skin\user_title_skin.tga" imgrect="860 889 214 34" CMM_Caption="주보레_화랑"/>
 		<image name="plate_achieve_contest_Event_4th" file="\skin\user_title_skin.tga" imgrect="1075 926 214 34" CMM_Caption="일본 일러스트 공모전 칭호_4th"/>
+		<image name="plate_achieve_2022_newyear" file="\skin\user_title_skin.tga" imgrect="215 959 214 34" CMM_Caption="2022 설날 칭호"/>
 	</imagelist>
 	<imagelist category="skin_hair">
 		<image name="icon_skintone_01_m01" file="\skin\skinhair\icon_skintone_01_m01.png" imgrect="0 0 80 80" CMM_Caption="남성 01"/>
@@ -13987,6 +13990,7 @@
 		<image name="ridepet_PolarReindeer" file="\icon\ridepet.tga" imgrect="320 0 80 80" CMM_Caption="북극순록"/>
 		<image name="ridepet_ep13raincoat" file="\icon\ridepet.tga" imgrect="400 0 80 80" CMM_Caption="금붕어"/>
 		<image name="ridepet_noblepopo" file="\icon\ridepet.tga" imgrect="480 0 80 80" CMM_Caption="노블포포"/>
+		<image name="ridepet_YellowTiger" file="\icon\ridepet.tga" imgrect="560 0 80 80" CMM_Caption="황호"/>
 	</imagelist>
 	<effectimagelist category="effectlist">
 		<image name="blue_orb" file="\icon\blue_orb.tga" imgrect="0 0 256 256"/>

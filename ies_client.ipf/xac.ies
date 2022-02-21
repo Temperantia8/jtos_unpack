@@ -26409,3 +26409,4 @@ ClassID,ClassName,Mesh,Path,ArmbandInfo,UseAlpha,IsJiggleBoneHair
 729428,"warrior_m_head3_eye01_blue2","","char_texture\pc\face\face_m_eye01_blue2\","","NO",""
 729429,"warrior_m_head4_eye01_blue2","","char_texture\pc\face\face_m_eye01_blue2\","","NO",""
 729430,"warrior_m_head5_eye01_blue2","","char_texture\pc\face\face_m_eye01_blue2\","","NO",""
+729500,"RidePet_Tiger_twn","char_hi\monster\pet_tiger_set.xac","char_texture\monster\pet_tiger\","","NO",""

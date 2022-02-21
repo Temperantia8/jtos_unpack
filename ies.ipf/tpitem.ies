@@ -1,9 +1,8 @@
 ClassID,Price,JobGrade,Itemdate,AccountLimitCount,BonusItemCnt,AccountLimitWeeklyCount,ClassName,Category,SubCategory,ItemClassName,Job,SellStartTime,SellEndTime,WarningMsg,BonusItemName,BonusOnlySeasonServer,AccountLimitWeeklyCountProperty,ItemSocial
-1,79,0,210506,1,0,0,"ClassName1","TP_Premium","TP_Package","UnlockQuest_OverAchieveClear_Char3_22_Job","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
-2,149,0,210505,1,0,0,"ClassName2","TP_Premium","TP_Package","hwarang_standard_pack","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
-3,549,0,210504,1,0,0,"ClassName3","TP_Premium","TP_Package","hwarang_complete_pack","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
-4,97,0,210503,1,0,0,"ClassName4","TP_Premium","TP_Package","sadhu_standard_pack","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
-5,509,0,210502,1,0,0,"ClassName5","TP_Premium","TP_Package","sadhu_complete_pack","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
+1,267,0,220201,3,0,0,"ClassName1","TP_Premium","TP_Package","202202_tiger_a_package_JPN","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
+2,199,0,220202,3,0,0,"ClassName2","TP_Premium","TP_Package","202202_tiger_b_package_JPN","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
+3,398,0,220203,3,0,0,"ClassName3","TP_Premium","TP_Package","202202_tiger_c_package_JPN","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
+4,999,0,220204,1,0,0,"ClassName4","TP_Premium","TP_Package","202202_tiger_AIO_package_JPN","","2021-11-25 09:00:00","2022-03-23 06:00:00","NO","","NO","",""
 51,49,0,211124,0,0,1,"ClassName51","TP_Premium","TP_Package","Dungeon_Key01_NoTrade_500ea","","","","NO","","NO","AccountLimitWeeklyCountProperty_1",""
 52,43,0,211124,0,0,1,"ClassName52","TP_Premium","TP_Package","GoddessCard_Reinforce_package","","","","NO","","NO","AccountLimitWeeklyCountProperty_2",""
 53,38,0,211124,0,0,1,"ClassName53","TP_Premium","TP_Package","coin_package","","","","NO","","NO","AccountLimitWeeklyCountProperty_3",""
