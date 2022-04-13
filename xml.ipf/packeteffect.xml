@@ -1266,7 +1266,8 @@
 		<Effect Name="F_ground085_circle"/>
 		<Effect Name="skl12_spear"/>
 		<Effect Name="I_archer_ParthianShaft_force"/>
-	</Category>
+		<Effect Name="ridepet_ep13animal_run"/>
+    </Category>
 	<Category ID="146">
 		<Effect Name="beginner"/>
 		<Effect Name="Phase0"/>
@@ -7192,6 +7193,9 @@
         <Effect Name="skl_eff_photowall_golddog_close_boom"/>
         <Effect Name="skl_eff_pet_tiger_born_boom"/>
         <Effect Name="F_smoke205_Dark"/>
+		<Effect Name="spin"/>
+		<Effect Name="gacha_machine"/>
+		<Effect Name="F_ground040_nosound"/>
     </Category>
 	<Category ID="28">
 		<Effect Name="F_explosion006_green#Dummy_skl2_shot"/>
