@@ -1,8 +1,7 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3
 999901,202104,71100,202104,71100,203101,11101,203012,251100,0,0,"inGame_E1","Review","inGame_E1","https://treeofsavior.jp/page/newsview.php?n=551","time_del","",""
-999902,202104,131100,202104,181100,202204,271101,202204,221100,0,0,"inGame_E2","Goddess' Blessed Cube","inGame_E2","https://treeofsavior.jp/page/newsview.php?n=912","","",""
+999903,202204,271100,202205,21100,202205,181101,202205,131100,0,0,"inGame_E3","Samidori Package","inGame_E3","https://treeofsavior.jp/page/newsview.php?n=931","","",""
 999905,202204,201100,202204,251100,202205,181101,202205,131100,0,0,"inGame_E5","Supplies Event","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=921","","",""
 999906,202204,201100,202204,251100,202205,41101,202204,291100,0,0,"inGame_E6","Leticia's Secret Cube","inGame_E6","https://treeofsavior.jp/page/newsview.php?n=922","","",""
-999907,202203,231100,202203,281100,202204,271101,202204,221100,0,0,"inGame_E7","New Content Event","inGame_E7","https://treeofsavior.jp/page/newsview.php?n=891","","",""
 999908,202012,21100,202012,71100,203012,311101,203012,311100,0,0,"inGame_E8","Costume Collection","inGame_E8","https://treeofsavior.jp/page/newsview.php?n=391","time_del","",""
 999909,202007,11100,202007,61100,203101,11101,203012,251100,0,0,"inGame_E9","Weekend Burning","inGame_E9","https://treeofsavior.jp/page/newsview.php?n=872","time_del","",""
