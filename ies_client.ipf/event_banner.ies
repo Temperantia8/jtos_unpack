@@ -1,8 +1,7 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3
 999901,202104,71100,202104,71100,203101,11101,203012,251100,0,0,"inGame_E1","Review","inGame_E1","https://treeofsavior.jp/page/newsview.php?n=551","time_del","",""
 999903,202206,81100,202206,131100,202206,221101,202206,171100,0,0,"inGame_E3","Goddess' Blessed","inGame_E3","https://treeofsavior.jp/page/newsview.php?n=964","","",""
-999904,202205,181100,202205,231100,202206,151101,202206,101100,0,0,"inGame_E4","Midori no tane Event","inGame_E4","https://treeofsavior.jp/page/newsview.php?n=948","","",""
-999905,202205,181100,202205,231100,202206,151101,202206,101100,0,0,"inGame_E5","Keraunos package","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=950","","",""
+999905,202206,151100,202206,201100,202207,271101,202207,221100,0,0,"inGame_E5","Tobe! Summer Camp Event","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=970","","",""
 999907,202206,21100,202206,71100,202206,291101,202206,241100,0,0,"inGame_E7","Kousyo no minazuki package","inGame_E7","https://treeofsavior.jp/page/newsview.php?n=960","","",""
 999908,202012,21100,202012,71100,203012,311101,203012,311100,0,0,"inGame_E8","Costume Collection","inGame_E8","https://treeofsavior.jp/page/newsview.php?n=391","time_del","",""
 999909,202007,11100,202007,61100,203101,11101,203012,251100,0,0,"inGame_E9","Weekend Burning","inGame_E9","https://treeofsavior.jp/page/newsview.php?n=952","time_del","",""
