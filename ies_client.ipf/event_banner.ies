@@ -1,6 +1,6 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3
 999901,202104,71100,202104,71100,203101,11101,203012,251100,0,0,"inGame_E1","Review","inGame_E1","https://treeofsavior.jp/page/newsview.php?n=551","time_del","",""
-999903,202207,61100,202207,111100,202207,201101,202207,151100,0,0,"inGame_E3","Goddess' Blessed","inGame_E3","https://treeofsavior.jp/page/newsview.php?n=984","","",""
+999903,202207,201100,202207,251100,202208,31101,202207,291100,0,0,"inGame_E3","Leticia's Secret Cube","inGame_E3","https://treeofsavior.jp/page/newsview.php?n=1001","","",""
 999905,202206,151100,202206,201100,202207,271101,202207,221100,0,0,"inGame_E5","Tobe! Summer Camp Event","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=970","","",""
 999906,202207,61100,202207,111100,202207,271101,202207,221100,0,0,"inGame_E6","Seika funrei Package","inGame_E6","https://treeofsavior.jp/page/newsview.php?n=988","","",""
 999908,202012,21100,202012,71100,203012,311101,203012,311100,0,0,"inGame_E8","Costume Collection","inGame_E8","https://treeofsavior.jp/page/newsview.php?n=391","time_del","",""
