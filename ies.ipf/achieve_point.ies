@@ -432,6 +432,7 @@ ClassID,ClassName,Name,UseDaily,UseWeekly,Country,StartTime,EndTime,DescTitle
 6293,"EVENT_2206_SUMMER_04","계절 별미","NO","NO","","2022-07-27 09:00:00","2022-09-07 12:00:00",""
 6294,"EVENT_2206_SUMMER_05","버프 완전 무장","NO","NO","","2022-07-27 09:00:00","2022-09-07 12:00:00",""
 6295,"EVENT_2206_SUMMER_06","여름 축제","NO","NO","","2022-07-27 09:00:00","2022-09-07 12:00:00",""
+6303,"EVENT_5th_Best_Painter_Title","5th Best Painter","NO","NO","","","",""
 7001,"PardonerAbility","기부 레벨","NO","NO","","","",""
 7002,"TaxAbility","세금 납부 레벨","NO","NO","","","",""
 8001,"FreeDungeon_under_68_1","시카리오스 기믹","NO","NO","","","",""

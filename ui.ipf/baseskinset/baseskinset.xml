@@ -14934,6 +14934,7 @@
 		<image name="plate_achieve_Lama_weekraid" file="\skin\user_title_skin.tga" imgrect="0 1101 214 34" CMM_Caption="라마 주보레 칭호"/>
 		<image name="plate_achieve_EVENT_2206_SUMMER_TITLE" file="\skin\user_title_skin.tga" imgrect="215 1101 214 34" CMM_Caption="썸머 페스타 칭호"/>
 		<image name="plate_achieve_ignas_weekraid" file="\skin\user_title_skin.tga" imgrect="645 1101 214 34" CMM_Caption="이그나스 주보레 칭호"/>
+		<image name="plate_achieve_EVENT_5th_Best_Painter" file="\skin\user_title_skin.tga" imgrect="860 1101 214 34" CMM_Caption="5주년 일러스트 공모전 칭호"/>
 	</imagelist>
 	<imagelist category="skin_hair">
 		<image name="icon_skintone_01_m01" file="\skin\skinhair\icon_skintone_01_m01.png" imgrect="0 0 80 80" CMM_Caption="남성 01"/>
