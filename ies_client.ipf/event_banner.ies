@@ -1,8 +1,6 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3
 999901,202104,71100,202104,71100,203101,11101,203012,251100,0,0,"inGame_E1","Review","inGame_E1","https://treeofsavior.jp/page/newsview.php?n=551","time_del","",""
-999902,202210,121100,202210,171100,202211,21101,202210,281100,0,0,"inGame_E2","Leticia's Secret Cube","inGame_E2","https://treeofsavior.jp/page/newsview.php?n=1096","","",""
 999903,202210,51100,202210,101100,202211,161101,202211,111100,0,0,"inGame_E3","Goddess Glory: Heliopolis","inGame_E3","https://treeofsavior.jp/page/newsview.php?n=1086","","",""
-999904,202209,281100,202210,31100,202211,21101,202210,281100,0,0,"inGame_E4","Harmony Event","inGame_E4","https://treeofsavior.jp/page/newsview.php?n=1075","","",""
 999905,202210,261100,202210,311100,202211,161101,202211,111100,0,0,"inGame_E5","HapyHalloNight Package","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=1106","","",""
 999906,202210,261100,202210,311100,202211,301101,202211,251100,0,0,"inGame_E6","Yurei shoujo no Onegai 2 event","inGame_E6","https://treeofsavior.jp/page/newsview.php?n=1105","","",""
 999908,202012,21100,202012,71100,203012,311101,203012,311100,0,0,"inGame_E8","Costume Collection","inGame_E8","https://treeofsavior.jp/page/newsview.php?n=391","time_del","",""
