@@ -1,6 +1,8 @@
 ClassID,StartTimeYYYYMM,StartTimeDDHHMM,NewTimeYYYYMM,NewTimeDDHHMM,EndTimeYYYYMM,EndTimeDDHHMM,DeadlineTimeYYYYMM,DeadlineTimeDDHHMM,ExchangeTimeYYYYMM,ExchangeTimeDDHHMM,ClassName,Name,ImagePath,url,UserCommand1,UserCommand2,UserCommand3
 999901,202104,71100,202104,71100,203101,11101,203012,251100,0,0,"inGame_E1","Review","inGame_E1","https://treeofsavior.jp/page/newsview.php?n=551","time_del","",""
+999902,202212,141100,202212,191100,202301,41100,202212,301100,0,0,"inGame_E2","Leticia's Secret Cube","inGame_E2","https://treeofsavior.jp/page/newsview.php?n=1152","","",""
 999903,202211,231100,202211,281100,202301,41101,202212,311100,0,0,"inGame_E3","Goddess Glory: 3rd Anniversary","inGame_E3","https://treeofsavior.jp/page/newsview.php?n=1126","","",""
-999904,202211,231100,202211,281100,202212,141101,202212,91100,0,0,"inGame_E4","Grateful Month Package","inGame_E4","https://treeofsavior.jp/page/newsview.php?n=1127","","",""
+999904,202212,141100,202212,191100,202301,111100,202301,61100,0,0,"inGame_E4","Winter Festival event","inGame_E4","https://treeofsavior.jp/page/newsview.php?n=1146","","",""
+999905,202212,141100,202212,191100,202301,111100,202301,61100,0,0,"inGame_E5","Jaguar Package","inGame_E5","https://treeofsavior.jp/page/newsview.php?n=1149","","",""
 999908,202012,21100,202012,71100,203012,311101,203012,311100,0,0,"inGame_E8","Costume Collection","inGame_E8","https://treeofsavior.jp/page/newsview.php?n=391","time_del","",""
 999909,202007,11100,202007,61100,203101,11101,203012,251100,0,0,"inGame_E9","Weekend Burning","inGame_E9","https://treeofsavior.jp/page/newsview.php?n=1130","time_del","",""

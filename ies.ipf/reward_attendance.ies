@@ -501,3 +501,6 @@ ClassID,DayOffset,RewardCount,RewardItemCnt_1,AppendPropertyStatus,ClassName,Gro
 1602,2,1,1,0,"202203ArborDay_02","202203ArborDay","S","Event_2203_ARBOR_DAY_Box_3",""
 1603,3,1,1,0,"202203ArborDay_03","202203ArborDay","S","Event_2203_ARBOR_DAY_Box_4",""
 1604,4,1,1,0,"202203ArborDay_04","202203ArborDay","S","Event_2203_ARBOR_DAY_Box_5_GLOBAL",""
+1671,0,1,1,0,"Event2212Attendance_00","Event2212Attendance","S","Event_2212_Attendance_Box_0",""
+1672,1,1,1,0,"Event2212Attendance_01","Event2212Attendance","S","Event_2212_Attendance_Box_1",""
+1673,2,1,1,0,"Event2212Attendance_02","Event2212Attendance","S","Event_2212_Attendance_Box_2",""
